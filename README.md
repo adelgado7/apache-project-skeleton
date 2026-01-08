@@ -60,7 +60,7 @@ This tool helps you go from a fresh server to a clean, production-ready project 
 ### Option 1: Clone from GitHub (recommended)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nginx-project-skeleton.git
+git clone https://github.com/adelgado7/nginx-project-skeleton.git
 cd nginx-project-skeleton
 chmod +x create_apache_project_skeleton.sh
 ./create_apache_project_skeleton.sh
@@ -70,7 +70,7 @@ chmod +x create_apache_project_skeleton.sh
 
 ```bash
 wget -O create_apache_project_skeleton.sh \
-https://raw.githubusercontent.com/YOUR_USERNAME/nginx-project-skeleton/main/create_apache_project_skeleton.sh
+https://raw.githubusercontent.com/adelgado7/nginx-project-skeleton/main/create_apache_project_skeleton.sh
 
 chmod +x create_apache_project_skeleton.sh
 ./create_apache_project_skeleton.sh
