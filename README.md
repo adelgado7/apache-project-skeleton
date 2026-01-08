@@ -57,21 +57,11 @@ This tool helps you go from a fresh server to a clean, production-ready project 
 
 ## Installation
 
-### Option 1: Clone from GitHub (recommended)
+### Clone from GitHub
 
 ```bash
 git clone https://github.com/adelgado7/apache-project-skeleton.git
 cd apache-project-skeleton
-chmod +x create_apache_project_skeleton.sh
-./create_apache_project_skeleton.sh
-```
-
-### Option 2: Download via wget
-
-```bash
-wget -O create_apache_project_skeleton.sh \
-https://raw.githubusercontent.com/adelgado7/apache-project-skeleton/main/create_apache_project_skeleton.sh
-
 chmod +x create_apache_project_skeleton.sh
 ./create_apache_project_skeleton.sh
 ```
